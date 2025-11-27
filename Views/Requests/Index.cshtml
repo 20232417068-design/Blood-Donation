@@ -1,0 +1,29 @@
+﻿@model IEnumerable<BloodDonation.Models.Request>
+
+<h2>Blood Requests</h2>
+
+@if (!Model.Any())
+{
+    <p>No requests found.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <tr class="table-danger">
+            <th>Name</th>
+            <th>Blood Group</th>
+            <th>City</th>
+            <th>Date</th>
+        </tr>
+
+        @foreach (var r in Model)
+        {
+            <tr>
+                <td>@r.Name</td>
+                <td>@r.BloodGroup</td>
+                <td>@r.City</td>
+                <td>@r.RequestDate.ToString("dd-MMM-yyyy")</td>
+            </tr>
+        }
+    </table>
+}

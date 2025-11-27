@@ -1,0 +1,67 @@
+﻿@model BloodDonation.Models.Donor
+
+<h2 class="text-center mb-4">Donors Registration</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success text-center">
+        @TempData["Success"]
+    </div>
+}
+
+<div class="card shadow-sm p-4 mb-4">
+    <div class="alert alert-warning shadow-sm p-3" style="border-left:5px solid #d62828;">
+        <h5 class="fw-bold text-danger mb-2">Important Eligibility Notice</h5>
+        <ul>
+            <li>Age: 18 – 65 years</li>
+            <li>Min weight: 50 kg</li>
+            <li>No alcohol in the lastNo alcohol in the last</li>
+            <li>No HIV, Hepatitis B/C, chronic illnesses.</li>
+            <li>No major surgery in last 6 months</li>
+        </ul>
+    </div>
+</div>
+
+<div class="card p-4 shadow">
+    <form method="post">
+        <div class="row">
+
+            <div class="col-md-6 mb-3">
+                <label>Name</label>
+                <input asp-for="Name" class="form-control" required />
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label>Age</label>
+                <input asp-for="Age" class="form-control" type="number" required />
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label>Blood Group</label>
+                <select asp-for="BloodGroup" class="form-select" required>
+                    <option value="">Select Blood Group</option>
+                    <option>A+</option>
+                    <option>A-</option>
+                    <option>B+</option>
+                    <option>B-</option>
+                    <option>O+</option>
+                    <option>O-</option>
+                    <option>AB+</option>
+                    <option>AB-</option>
+                </select>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label>Phone</label>
+                <input asp-for="Phone" class="form-control" required />
+            </div>
+
+            <div class="col-md-12 mb-3">
+                <label>City</label>
+                <input asp-for="City" class="form-control" required />
+            </div>
+        </div>
+
+        <button class="btn btn-danger w-100">Sumbit</button>
+    </form>
+</div>

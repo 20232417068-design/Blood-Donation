@@ -1,0 +1,22 @@
+﻿@model BloodDonation.Models.Camp
+
+<h2 class="text-center mb-4">Add New Camp</h2>
+
+<div class="card p-4 shadow mx-auto" style="max-width:600px;">
+    <form method="post">
+
+        <label>Camp Name</label>
+        <input class="form-control mb-3" name="CampName" required />
+
+        <label>Location</label>
+        <input class="form-control mb-3" name="Location" required />
+
+        <label>Date</label>
+        <input class="form-control mb-3" type="date" name="Date" required />
+
+        <label>Description</label>
+        <textarea class="form-control mb-3" name="Description"></textarea>
+
+        <button class="btn btn-danger w-100">Add Camp</button>
+    </form>
+</div>

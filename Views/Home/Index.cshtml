@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center mt-5">
+    <h1 class="fw-bold display-5">Welcome to the Blood Donation System</h1>
+    <p class="text-muted fs-5">Donate blood, save lives. Join the mission today.</p>
+
+    <a class="btn btn-danger btn-lg px-4 mt-3" href="/Donor/Create">
+        Become a Donor
+    </a>
+</div>
+
+<hr class="my-5" />
+
+<!-- ========================= -->
+<!--  3 Cards in Horizontal Row  -->
+<!-- ========================= -->
+
+<div class="container mt-4">
+    <div class="row g-4 justify-content-center">
+
+        <!-- Register as Donor -->
+        <div class="col-md-4">
+            <div class="card shadow-sm p-3 h-100">
+                <h4 class="fw-bold">Register as Donor</h4>
+                <p>Help save lives by donating blood. Register today.</p>
+                <a href="/Donors/Create" class="btn btn-danger">Register</a>
+            </div>
+        </div>
+
+        <!-- Request Blood -->
+        <div class="col-md-4">
+            <div class="card shadow-sm p-3 h-100">
+                <h4 class="fw-bold">Request Blood</h4>
+                <p>Need blood urgently? Submit your request.</p>
+                <a href="/Requests/Create" class="btn btn-danger">Request</a>
+            </div>
+        </div>
+
+        <!-- Blood Donation Camps -->
+        <div class="col-md-4">
+            <div class="card shadow-sm p-3 h-100">
+                <h4 class="fw-bold">Blood Donation Camps</h4>
+                <p>Check upcoming blood donation camps near you.</p>
+                <a href="/Camp" class="btn btn-danger">View Camps</a>
+            </div>
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<BloodDonation.Models.Camp>
+
+<h2 class="mb-4">Manage Blood Camps</h2>
+
+<a href="/Camp/Create" class="btn btn-success mb-3">Add New Camp</a>
+
+<table class="table table-bordered">
+    <thead class="table-danger">
+        <tr>
+            <th>Name</th>
+            <th>Location</th>
+            <th>Date</th>
+            <th>Description</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.CampName</td>
+                <td>@c.Location</td>
+                <td>@c.Date.ToString("dd-MMM-yyyy")</td>
+                <td>@c.Description</td>
+                <td>
+                    <a href="/Camp/Edit/@c.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a href="/Camp/Delete/@c.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

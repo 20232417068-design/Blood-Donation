@@ -1,0 +1,57 @@
+﻿@model BloodDonation.Models.Request
+
+<h2 class="mb-4 text-center">Request Blood</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success text-center fw-bold">
+        @TempData["Success"]
+    </div>
+}
+
+<div class="card p-4 shadow-lg mx-auto" style="max-width: 600px;">
+    <form method="post">
+
+        <!-- Full Name -->
+        <div class="mb-3">
+            <label class="form-label fw-semibold">Full Name</label>
+            <input name="Name" class="form-control" placeholder="Enter your full name" required />
+        </div>
+
+        <!-- Blood Group -->
+        <div class="mb-3">
+            <label class="form-label fw-semibold">Blood Group</label>
+            <select name="BloodGroup" class="form-select" required>
+                <option value="" disabled selected>Select your blood group</option>
+                <option>A+</option>
+                <option>A-</option>
+                <option>B+</option>
+                <option>B-</option>
+                <option>O+</option>
+                <option>O-</option>
+                <option>AB+</option>
+                <option>AB-</option>
+            </select>
+        </div>
+
+        <!-- Contact Number -->
+        <div class="mb-3">
+            <label class="form-label fw-semibold">Contact Number</label>
+            <input name="ContactNumber" class="form-control" placeholder="Enter your contact number" required />
+        </div>
+
+        <!-- City -->
+        <div class="mb-3">
+            <label class="form-label fw-semibold">City</label>
+            <input name="City" class="form-control" placeholder="Enter your city" required />
+        </div>
+
+        <!-- Submit Button -->
+        <div class="text-center">
+            <button class="btn btn-danger px-4 py-2">
+                Submit Request
+            </button>
+        </div>
+
+    </form>
+</div>

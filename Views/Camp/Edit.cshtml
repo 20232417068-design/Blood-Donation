@@ -1,0 +1,25 @@
+﻿@model BloodDonation.Models.Camp
+
+<h2 class="text-center mb-4">Edit Camp</h2>
+
+<div class="card p-4 shadow mx-auto" style="max-width:600px;">
+    <form method="post">
+
+        <input type="hidden" name="Id" value="@Model.Id" />
+
+        <label class="fw-bold">Camp Name</label>
+        <input class="form-control mb-3" name="CampName" value="@Model.CampName" required />
+
+        <label class="fw-bold">Location</label>
+        <input class="form-control mb-3" name="Location" value="@Model.Location" required />
+
+        <label class="fw-bold">Date</label>
+        <input class="form-control mb-3" type="date" name="Date"
+               value="@Model.Date.ToString("yyyy-MM-dd")" required />
+
+        <label class="fw-bold">Description</label>
+        <textarea class="form-control mb-3" name="Description">@Model.Description</textarea>
+
+        <button class="btn btn-danger w-100">Update Camp</button>
+    </form>
+</div>

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<BloodDonation.Models.Camp>
+
+<h2 class="text-center mt-4 mb-4 fw-bold">Upcoming Blood Donation Camps</h2>
+
+<div class="container">
+    <div class="row justify-content-center">
+
+        @foreach (var c in Model)
+        {
+            <div class="col-md-4">
+                <div class="card shadow p-3 mb-4">
+                    <h4 class="fw-bold text-danger">@c.CampName</h4>
+                    <p><strong>Location:</strong> @c.Location</p>
+                    <p><strong>Date:</strong> @c.Date.ToString("dd-MMM-yyyy")</p>
+                    <p>@c.Description</p>
+
+                    @if (ViewBag.IsAdmin == true)
+                    {
+                        <a href="/Camp/Edit/@c.Id" class="btn btn-warning w-100 mb-2">Edit</a>
+                        <a href="/Camp/Delete/@c.Id" class="btn btn-danger w-100"
+                           onclick="return confirm('Delete this camp?');">Delete</a>
+                    }
+                </div>
+            </div>
+        }
+
+        @if (!Model.Any())
+        {
+            <h4 class="text-center text-muted mt-5">No upcoming camps available.</h4>
+        }
+    </div>
+
+    @if (ViewBag.IsAdmin == true)
+    {
+        <div class="text-center">
+            <a href="/Camp/Create" class="btn btn-primary btn-lg mt-3">Add New Camp</a>
+        </div>
+    }
+</div>

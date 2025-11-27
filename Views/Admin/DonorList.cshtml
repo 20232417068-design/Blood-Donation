@@ -1,0 +1,20 @@
+﻿<h2>Donor List</h2>
+
+<table class="table table-bordered table-striped">
+    <tr class="table-danger">
+        <th>Name</th>
+        <th>Blood Group</th>
+        <th>Phone</th>
+        <th>City</th>
+    </tr>
+
+    @foreach (var donor in Model)
+    {
+        <tr>
+            <td>@donor.Name</td>
+            <td>@donor.BloodGroup</td>
+            <td>@donor.Phone</td>
+            <td>@donor.City</td>
+        </tr>
+    }
+</table>

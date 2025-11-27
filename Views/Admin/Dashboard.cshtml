@@ -1,0 +1,74 @@
+﻿@model IEnumerable<BloodDonation.Models.Donor>
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="container mt-5">
+
+    <h2 class="text-center mb-4">Welcome, @ViewBag.AdminName</h2>
+
+    <!-- FILTER SECTION -->
+    <form method="get" class="row mb-4 p-3 border rounded shadow-sm">
+
+        <div class="col-md-4">
+            <label><b>Blood Group</b></label>
+            <select name="bloodGroup" class="form-control">
+                <option value="">All</option>
+                <option value="A+" selected="@(ViewBag.SelectedBloodGroup == "A+")">A+</option>
+                <option value="A-" selected="@(ViewBag.SelectedBloodGroup == "A-")">A-</option>
+                <option value="B+" selected="@(ViewBag.SelectedBloodGroup == "B+")">B+</option>
+                <option value="B-" selected="@(ViewBag.SelectedBloodGroup == "B-")">B-</option>
+                <option value="O+" selected="@(ViewBag.SelectedBloodGroup == "O+")">O+</option>
+                <option value="O-" selected="@(ViewBag.SelectedBloodGroup == "O-")">O-</option>
+                <option value="AB+" selected="@(ViewBag.SelectedBloodGroup == "AB+")">AB+</option>
+                <option value="AB-" selected="@(ViewBag.SelectedBloodGroup == "AB-")">AB-</option>
+            </select>
+        </div>
+
+        <div class="col-md-4">
+            <label><b>City</b></label>
+            <input name="city" class="form-control"
+                   value="@ViewBag.SelectedCity"
+                   placeholder="Enter city" />
+        </div>
+
+        <div class="col-md-4 d-flex align-items-end">
+            <button class="btn btn-danger w-100">Apply Filter</button>
+        </div>
+
+    </form>
+
+    <h4 class="mb-3">Registered Donors</h4>
+
+    <table class="table table-bordered text-center shadow-sm">
+        <thead class="table-danger">
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Blood Group</th>
+                <th>Phone</th>
+                <th>City</th>
+                <th style="width:160px;">Actions</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var d in Model)
+            {
+                <tr>
+                    <td>@d.Name</td>
+                    <td>@d.Age</td>
+                    <td>@d.BloodGroup</td>
+                    <td>@d.Phone</td>
+                    <td>@d.City</td>
+
+                    <td>
+                        <a class="btn btn-primary btn-sm" href="/Admin/Edit/@d.Id">Edit</a>
+                        <a class="btn btn-danger btn-sm" href="/Admin/Delete/@d.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
