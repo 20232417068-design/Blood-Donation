@@ -2,17 +2,14 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy solution file
-COPY BloodDonation.sln .
-
-# Copy the project folder
-COPY BloodDonation/ BloodDonation/
+# Copy everything
+COPY . .
 
 # Restore dependencies
-RUN dotnet restore BloodDonation/BloodDonation.csproj
+RUN dotnet restore BloodDonation.csproj
 
 # Build and publish
-RUN dotnet publish BloodDonation/BloodDonation.csproj -c Release -o /app
+RUN dotnet publish BloodDonation.csproj -c Release -o /app
 
 # Runtime Stage
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
