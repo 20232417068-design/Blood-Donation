@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BloodDonation\\BloodDonation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Camp\\Manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Migrations\\20251127173748_MakeDescriptionNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251127173748_MakeDescriptionNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Migrations\\20251127145413_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251127145413_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Migrations\\20251127102420_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251127102420_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Migrations\\20251127100629_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251127100629_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Migrations\\20251126183525_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251126183525_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Filters\\AdminOnlyAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Filters\\AdminOnlyAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Camp\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Camp\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Controllers\\CampController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CampController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Models\\Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Camp\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Models\\Camp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Camp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Requests\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Requests\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Requests\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Requests\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Donors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Donors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Controllers\\RequestsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\RequestsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Models\\Donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Donors\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Donors\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Admin\\DonorList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\DonorList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Admin\\Dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\Dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Admin\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Donors\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Donors\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Controllers\\DonorsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\DonorsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Models\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BloodDonation\\BloodDonation\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251127173748_MakeDescriptionNullable.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Migrations\\20251127173748_MakeDescriptionNullable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251127173748_MakeDescriptionNullable.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Migrations\\20251127173748_MakeDescriptionNullable.cs",
+              "RelativeToolTip": "Migrations\\20251127173748_MakeDescriptionNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:37:48.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251127145413_Initial.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Migrations\\20251127145413_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251127145413_Initial.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Migrations\\20251127145413_Initial.cs",
+              "RelativeToolTip": "Migrations\\20251127145413_Initial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:54:13.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Manage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Camp\\Manage.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Manage.cshtml",
+              "RelativeToolTip": "Views\\Camp\\Manage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T11:05:18.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminOnlyAttribute.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Filters\\AdminOnlyAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\AdminOnlyAttribute.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Filters\\AdminOnlyAttribute.cs",
+              "RelativeToolTip": "Filters\\AdminOnlyAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:49:16.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Camp\\Create.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Create.cshtml",
+              "RelativeToolTip": "Views\\Camp\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T10:39:51.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Camp\\Index.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Index.cshtml",
+              "RelativeToolTip": "Views\\Camp\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T10:39:07.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CampController.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Controllers\\CampController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CampController.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Controllers\\CampController.cs",
+              "RelativeToolTip": "Controllers\\CampController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:37:59.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251127102420_Initial.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Migrations\\20251127102420_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251127102420_Initial.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Migrations\\20251127102420_Initial.cs",
+              "RelativeToolTip": "Migrations\\20251127102420_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:24:20.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251127100629_Initial.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Migrations\\20251127100629_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251127100629_Initial.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Migrations\\20251127100629_Initial.cs",
+              "RelativeToolTip": "Migrations\\20251127100629_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:06:29.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T09:55:09.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "Models\\Request.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Models\\Request.cs",
+              "RelativeToolTip": "Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T09:34:13.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Camp\\Edit.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Camp\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Camp\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T21:05:56.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Camp.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Models\\Camp.cs",
+              "RelativeDocumentMoniker": "Models\\Camp.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Models\\Camp.cs",
+              "RelativeToolTip": "Models\\Camp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:57:10.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Requests\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Requests\\Create.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Requests\\Create.cshtml",
+              "RelativeToolTip": "Views\\Requests\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T19:25:51.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Requests\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Requests\\Index.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Requests\\Index.cshtml",
+              "RelativeToolTip": "Views\\Requests\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T19:25:27.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Donors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Donors\\Index.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Donors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Donors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T19:24:51.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RequestsController.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Controllers\\RequestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RequestsController.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Controllers\\RequestsController.cs",
+              "RelativeToolTip": "Controllers\\RequestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:22:28.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "Models\\Donor.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Models\\Donor.cs",
+              "RelativeToolTip": "Models\\Donor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:13:00.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Donors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Donors\\Create.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Donors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Donors\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T19:06:26.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251126183525_Initial.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Migrations\\20251126183525_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251126183525_Initial.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Migrations\\20251126183525_Initial.cs",
+              "RelativeToolTip": "Migrations\\20251126183525_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:35:25.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DonorList.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Admin\\DonorList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\DonorList.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Admin\\DonorList.cshtml",
+              "RelativeToolTip": "Views\\Admin\\DonorList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T18:32:31.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T18:31:54.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T18:31:19.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Donors\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Donors\\Register.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Donors\\Register.cshtml",
+              "RelativeToolTip": "Views\\Donors\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T18:29:51.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T18:27:50.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T18:27:08.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:26:35.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DonorsController.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Controllers\\DonorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonorsController.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Controllers\\DonorsController.cs",
+              "RelativeToolTip": "Controllers\\DonorsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:25:58.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:24:41.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:23:00.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Views\\AppDbContext.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\AppDbContext.cs",
+              "RelativeToolTip": "Views\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:22:25.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T18:21:21.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:20:58.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\BloodDonation\\BloodDonation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\BloodDonation\\BloodDonation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T18:20:14.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
